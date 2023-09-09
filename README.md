@@ -89,7 +89,13 @@ font
      ![](ref.png)
 15. For each student, I add all the final grade points from the courses and divide by the summation 
 of all course units (T3:W3)
-16. I Write a formula to determine if the student will graduate or not using:
+
+  ![](div.png)
+
+17. I Write a formula to determine if the student will graduate or not using:
+
+   ![](if3.png)
+    
 -  **YES** if GPA is greater than or equal to 2.5 (cell AH1)
 -  **NO** if GPA is less than 2.5 (cell AH1)
 
